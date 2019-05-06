@@ -1,0 +1,2 @@
+This is my reimplementation of StarGAN for many to many voice transfer on VCTK dataset.
+This is Tensorflow implementation.
